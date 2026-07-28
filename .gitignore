@@ -1,0 +1,12 @@
+*.o
+*.so
+*.a
+build/
+.env
+*.log
+.DS_Store
+dist/
+*.tmp
+.idea/
+.vscode/
+node_modules/
